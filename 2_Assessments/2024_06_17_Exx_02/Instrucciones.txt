@@ -1,0 +1,14 @@
+Fecha de entrega: lunes 17 de junio.
+
+1) Instalar el IDE visual studio
+
+
+2) Correr main.cpp que llama a SumaArreglo.asm. (Lea el Readme.pdf)
+
+
+3) Modificar  el arreglo int arreglo[5] = { 1,2,3,4,5 }; para que incluya un sexto valor
+que usted pre-calcula como la suma de los dos ultimos digitos de su carne.
+
+
+
+Entregar solamente estos dos ultimos programas.
