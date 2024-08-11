@@ -6,7 +6,7 @@
 2. University: Universidad de Costa Rica (UCR).
 3. Credits: 4.
 4. Book: Abel, Peter. IBM PC Assembly Language and Programming.
-5. Date: I-SEMESTER 2024
+5. Date: I-Semester 2024.
 
 ## Contact Information
 
